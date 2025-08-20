@@ -1,2 +1,4 @@
 # LLVM-Studies
-Repository that contains my personal notes about LLVM and Clang.
+
+## Intro
+Compilation of my personal study notes related to LLVM and Clang.
